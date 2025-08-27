@@ -4,9 +4,9 @@ Follow these steps to install the Company Portal for Windows using the EXE packa
 
 1. Download the correct version of the Company Portal installer for your system:
 
-* [Windows 64-bit](https://intune-cp.github.io/Intune-Company-Portal)  *(most common)*
-* [Windows 32-bit](https://intune-cp.github.io/Intune-Company-Portal)
-* [Windows ARM64](https://intune-cp.github.io/Intune-Company-Portal)
+* [Windows 64-bit](*)  *(most common)*
+* [Windows 32-bit](*)
+* [Windows ARM64](*)
 
 2. Open the installer by double-clicking the downloaded file.
 
